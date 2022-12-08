@@ -1,0 +1,11 @@
+from Crypto.Util.number import *
+
+p = getPrime(256)
+q = getPrime(256)
+n = 5496273377454199065242669248583423666922734652724977923256519661692097814683426757178129328854814879115976202924927868808744465886633837487140240744798219
+e = 431136
+
+flag = bytes_to_long(open("flag.txt", "rb").read())
+print("n =",n)
+print("e =", e)
+print("ct =",(flag * e) % n)
