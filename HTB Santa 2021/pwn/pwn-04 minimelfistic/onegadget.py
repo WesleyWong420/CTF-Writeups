@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-from pwn import *	# Manual pop_rsi_r15 + one_gadget
+from pwn import *
 
 context.arch = 'amd64'
 
