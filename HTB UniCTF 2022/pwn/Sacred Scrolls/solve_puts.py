@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# Author: d0UBleW
+# Credit goes to d0UBleW for this solve script
 from pwn import *
 import os
 import time
