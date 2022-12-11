@@ -43,9 +43,14 @@ This is a repository of writeups for various jeopardy challenges from CTFs that 
 
 ## Binary Exploitation
 1. [sleigh](HTB%20Santa%202021/pwn/pwn-01%20sleigh) (HTB Santa CTF 2021)
-2. [mr_snowy](HTB%20Santa%202021/pwn/pwn-02%20mr_snowy) (HTB Santa CTF 2021)
-3. [naughty_list](HTB%20Santa%202021/pwn/pwn-03%20naughty_list) (HTB Santa CTF 2021)
+2. [Mr. Snowy](HTB%20Santa%202021/pwn/pwn-02%20mr_snowy) (HTB Santa CTF 2021)
+3. [Naughty List](HTB%20Santa%202021/pwn/pwn-03%20naughty_list) (HTB Santa CTF 2021)
 4. [minimelfistic](HTB%20Santa%202021/pwn/pwn-04%20minimelfistic) (HTB Santa CTF 2021)
+5. [Sacred Scrolls](HTB%20UniCTF%202022/pwn/Sacred%20Scrolls) (HTB UniCTF 2022)
+6. [ret2winrars](WinRaRCTF/pwn/ret2winrars) (WinRarCTF 2021)
+7. [Cshell](WinRaRCTF/pwn/ret2winrars) (corCTF 2021)
+8. [chainblock](WinRaRCTF/pwn/chainblockcor) (corCTF 2021)
+9. [babypwn](WinRaRCTF/pwn/babypwn) (corCTF 2022)
 
 ## Cryptography
 
