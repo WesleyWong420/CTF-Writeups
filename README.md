@@ -19,3 +19,18 @@ This is a repository of writeups for various jeopardy challenges from CTFs that 
 | corCTF             | [2021](corCTF) [2022](corCTF) |
 | APU iCTF           | [2022](iCTF%202022) |
 | iHack              | [2022](iHack2022%20Qualifying%20Round) |
+
+## Reverse Engineering
+1. [100Secure](BoH2021/100Secure) (BoH2021)
+2. [The Locker](BoH2021/The_Locker) (BoH2021)
+3. [babyrev](BoH2021/babyrev) (BoH2021)
+
+## Binary Exploitation
+
+## Cryptography
+
+## Forensics
+
+## Incident Response
+
+## Malware
