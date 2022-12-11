@@ -2,7 +2,7 @@
 This is a repository of writeups for various jeopardy challenges from CTFs that I have participated starting from 2021 to 2022. *Capture The Flag* is a type of computer security or hacking competition that generally involves breaking, investigating and reverse engineering a computer system to hunt for a *flag*, which is usually a specific string of text.
 
 ### Team x0rry
-| ![](https://avatars.githubusercontent.com/u/62108395?s=150&v=4)    | ![](https://avatars.githubusercontent.com/u/107750005?s=150&v=4) | ![](https://github.com/shiltemann.png?size=150) |
+| ![](https://avatars.githubusercontent.com/u/62108395?s=150&v=4)    | ![](https://avatars.githubusercontent.com/u/107750005?s=150&v=4) | ![](https://pps.whatsapp.net/v/t61.24694-24/167713933_316885877275732_4198735115085009540_n.jpg?stp=dst-jpg_s96x96&ccb=11-4&oh=01_AdQi7hoA0uvT4Xvna78y3Jh7oz-1XSr9tx7Vn6b98usB4w&oe=63A2B0C9) |
 |:-----------------------------------------------:|:-----------------------------------------------:|:-----------------------------------------------:|
 | **JesusCries**                                  | **pikaroot**                                    | **redeeF**                                      |
 
