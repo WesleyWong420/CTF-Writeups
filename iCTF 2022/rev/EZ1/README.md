@@ -154,7 +154,6 @@ Access Granted
 ~Your Flag~
 BAT22{test_flag}
 ```
-
 ### Intended Solution
 
 In the `ReadPassword` function. We can see that the hardcoded flag is located from`local_28` to`local_20` and XORed by `5` in a loop.
