@@ -1,13 +1,13 @@
 # iHack2022 Qualifying Round
 
 ## Challenge List
-| Challenge Name | Category | Writeup |
+| Challenge Name | Category | Writeup   |
 |----------------|:---------| :-------: |
-| rev1           | rev      | ✅ |
-| rev2           | rev      | ✅ |
-| rev3           | rev      | ⬜ |
-| rev4           | rev      | ⬜ |
-| rev5           | rev      | ⬜ |
+| rev1           | Rev      | ✅ |
+| rev2           | Rev      | ✅ |
+| rev3           | Rev      | ⬜ |
+| rev4           | Rev      | ⬜ |
+| rev5           | Rev      | ⬜ |
 
 ## Scoreboard
 ![Scoreboard](./Scoreboard.png)
