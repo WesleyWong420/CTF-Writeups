@@ -105,7 +105,7 @@ Nothing interesting as well.
 
 ### Static Analysis with Ghidra + Patching with BinaryNinja
 
-Disassemble the binary using `Ghidra` and look for the function `ReadPassword`.
+Disassemble the binary using `Ghidra` and look for the `main` function.
 
 ```
 undefined8 main(int param_1,long param_2)
