@@ -107,11 +107,11 @@ void flag2(void)
 
 Therefore, we search for strings that comes in pair using `Ghidra`. This further justifies our theory as we can see the valid flag format appearing as `BA`, `T2` and `2{`. Rearrange this scrambled flag would be a pain in the ass.
 
-![image-20221211232449574](C:\Users\USER\AppData\Roaming\Typora\typora-user-images\image-20221211232449574.png)
+![screenshot-1](./screenshot-1.png)
 
 For a better order of fragmented flags, we can go to the `.data` program tree in `Ghidra`.
 
-![image-20221211232614693](C:\Users\USER\AppData\Roaming\Typora\typora-user-images\image-20221211232614693.png)
+![screenshot-2](./screenshot-2.png)
 
 **Flag:** `BAT22{Scr1pt1ng_t0_Byp4ss_A5lr}`
 
@@ -121,10 +121,10 @@ From static code analysis, we learn that the `flag2` function was never called t
 
 To bypass ASLR, we need to get the relative address or offset address of `flag2` function for debugging purpose.
 
-![image-20221211232906162](C:\Users\USER\AppData\Roaming\Typora\typora-user-images\image-20221211232906162.png)
+![screenshot-3](./screenshot-3.png)
 
 Using the offset address, GDB can calculate the actual address of the function using PIE base. When the execution continues, we have our flag printed on the terminal after the `strcat()` and `puts()` functions are executed.
 
-![image-20221211232925238](C:\Users\USER\AppData\Roaming\Typora\typora-user-images\image-20221211232925238.png)
+![screenshot-4](./screenshot-4.png)
 
 **Flag:** `BAT22{Scr1pt1ng_t0_Byp4ss_A5lr}`
