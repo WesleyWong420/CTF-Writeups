@@ -35,6 +35,11 @@ This is a repository of writeups for various jeopardy challenges from CTFs that 
 8. [kolona](SKR%20CTF/rev/kolona) (SKR CTF)
 9. [kolona2](SKR%20CTF/rev/kolona2) (SKR CTF)
 10. [Potion Master](HTB%20UniCTF%202022/rev/Potion%20Master) (HTB UniCTF 2022)
+11. [rev1](iHack2022%20Qualifying%20Round/rev/rev1) (iHack 2022)
+12. [rev2](iHack2022%20Qualifying%20Round/rev/rev2) (iHack 2022)
+13. [rev3](iHack2022%20Qualifying%20Round/rev/rev3) (iHack 2022)
+14. [rev4](iHack2022%20Qualifying%20Round/rev/rev4) (iHack 2022)
+15. [rev5](iHack2022%20Qualifying%20Round/rev/rev5) (iHack 2022)
 
 ## Binary Exploitation
 
