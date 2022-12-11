@@ -4,7 +4,7 @@
 
 **Flag Format:** `ihack{MD5}`
 
-Smells like a Registry Startup Persistence method. Similarly to the last challenge, open `NTUSER.dat` in `Registry Explorer` and navigate to `Root\Software\Microsoft\Windows\CurrentVersion\Run`
+Smells like a Registry Startup Persistence method. Open `NTUSER.dat` in `Registry Explorer` and navigate to `Root\Software\Microsoft\Windows\CurrentVersion\Run`.
 
 ![Screenshot](./Screenshot.png)
 
