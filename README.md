@@ -11,7 +11,7 @@ This is a repository of writeups for various jeopardy challenges from CTFs that 
 |--------------------|--------------------------------------------------------------|
 | Battle of Hackers  | [2021](BoH2021) |
 | Hack@10            | [2021](HACK@10) |
-| HTB Santa          | [2021](HTB Santa 2021) |
+| HTB Santa          | [2021](HTB-Santa-2021) |
 | HTB UniCTF         | [2022](HTB UniCTF 2022) |
 | SKR CTF            | [2021](SKR CTF) |
 | TARUC CTF Season 1 | [2021](TARUC CTF Season 1) |
