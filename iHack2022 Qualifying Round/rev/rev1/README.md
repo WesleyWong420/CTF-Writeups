@@ -86,6 +86,6 @@ The hardcoded flag stored in `local_68` up until `local_48` is XOR encrypted wit
 
 By using `CyberChef`, change the hex representation to Little-Endian before XORing the encoded flag by `0x58`.
 
-![image-20221210202244653](C:\Users\USER\AppData\Roaming\Typora\typora-user-images\image-20221210202244653.png)
+![Screenshot](./Screenshot.png)
 
 **Flag:** `ihack{6d34fa145c6a2a78c649d770f0Xcdd20f}`
