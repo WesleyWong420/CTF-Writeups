@@ -199,7 +199,7 @@ Virtual    Physical   Name
 0x96a084b8 0x040c84b8 \??\C:\Users\sysadmin\ntuser.dat
 ```
 
-There is a particular registry hive that governs user information. We can dump the SAM database using `hivedump` and analyze it externally.
+There is a particular registry hive that governs user information. We can dump the SAM database using `dumpregistry` and analyze it externally.
 
 ```
 ┌──(kali💀JesusCries)-[~/Desktop/iHack/volatility_2.6_lin64_standalone]
