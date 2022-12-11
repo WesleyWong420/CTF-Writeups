@@ -3,7 +3,7 @@
 ## Challenge List
 | Challenge Name     | Category            | Writeup |
 |--------------------|---------------------| ------- |
-| rev1               | Reverse Engineering | - [X]   |
+| rev1               | Reverse Engineering | - [X] - [X]   |
 | rev2               | Reverse Engineering | * [X]   |
 | rev3               | Reverse Engineering | * [ ]   |
 | rev4               | Reverse Engineering | * [ ]   |
