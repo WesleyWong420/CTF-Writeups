@@ -1,13 +1,13 @@
 # iHack2022 Qualifying Round
 
 ## Challenge List
-| Challenge Name     | Category            | Writeup |
-|--------------------|---------------------| ------- |
-| rev1               | Reverse Engineering | ✅ |
-| rev2               | Reverse Engineering | ✅ |
-| rev3               | Reverse Engineering | ⬜ |
-| rev4               | Reverse Engineering | ⬜ |
-| rev5               | Reverse Engineering | ⬜ |
+| Challenge Name | Category | Writeup |
+|----------------|:---------| :-------: |
+| rev1           | Rev      | ✅ |
+| rev2           | Rev      | ✅ |
+| rev3           | Rev      | ⬜ |
+| rev4           | Rev      | ⬜ |
+| rev5           | Rev      | ⬜ |
 
 ## Scoreboard
 ![Scoreboard](./Scoreboard.png)
