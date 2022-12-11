@@ -51,6 +51,11 @@ This is a repository of writeups for various jeopardy challenges from CTFs that 
 7. [Cshell](WinRaRCTF/pwn/ret2winrars) (corCTF 2021)
 8. [chainblock](WinRaRCTF/pwn/chainblockcor) (corCTF 2021)
 9. [babypwn](WinRaRCTF/pwn/babypwn) (corCTF 2022)
+10. [binexp-0](iCTF%202022/pwn/binexp-0) (APU iCTF 2022)
+11. [binexp-1](iCTF%202022/pwn/binexp-1) (APU iCTF 2022)
+12. [binexp-2](iCTF%202022/pwn/binexp-2) (APU iCTF 2022)
+13. [pwn-01](iHack2022%20Qualifying%20Round/pwn/pwn-01) (iHack 2022)
+14. [pwn-02](iHack2022%20Qualifying%20Round/pwn/pwn-02) (iHack 2022)
 
 ## Cryptography
 
