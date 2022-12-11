@@ -12,7 +12,7 @@ This is a repository of writeups for various jeopardy challenges from CTFs that 
 | Battle of Hackers  | [2021](BoH2021) |
 | Hack@10            | [2021](HACK@10) |
 | SKR CTF            | [2021](SKR%20CTF) |
-| TarUC CTF          | [2021](TARUC%20CTF%20Season%201) |
+| TARUC CTF          | [2021](TARUC%20CTF%20Season%201) |
 | APU iCTF           | [2022](iCTF%202022) |
 | iHack              | [2022](iHack2022%20Qualifying%20Round) |
 
