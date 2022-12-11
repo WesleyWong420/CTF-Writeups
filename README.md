@@ -14,7 +14,7 @@ This is a repository of writeups for various jeopardy challenges from CTFs that 
 | HTB Santa          | [2021](HTB%20Santa%202021) |
 | HTB UniCTF         | [2022](HTB%20UniCTF%202022) |
 | SKR CTF            | [2021](SKR%20CTF) |
-| TARUC CTF Season 1 | [2021](TARUC%20CTF%20Season%201) |
+| TARUC CTF          | [2021](TARUC%20CTF%20Season%201) |
 | WinRaRCTF          | [2021](WinRaRCTF) |
 | corCTF             | [2021](corCTF) [2022](corCTF) |
 | APU iCTF           | [2022](iCTF%202022) |
