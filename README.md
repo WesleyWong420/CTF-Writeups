@@ -7,18 +7,23 @@ This is a repository of writeups for various jeopardy challenges from CTFs that 
 | **JesusCries**                                  | **pikaroot**                                    | **redeeF**                                      |
 
 ### Overview
+#### Intervarsity CTF
 | CTF Name           | Link                                                         |
 |--------------------|--------------------------------------------------------------|
 | Battle of Hackers  | [2021](BoH2021) |
 | Hack@10            | [2021](HACK@10) |
-| HTB Santa          | [2021](HTB%20Santa%202021) |
-| HTB UniCTF         | [2022](HTB%20UniCTF%202022) |
 | SKR CTF            | [2021](SKR%20CTF) |
 | TARUC CTF          | [2021](TARUC%20CTF%20Season%201) |
-| WinRaRCTF          | [2021](WinRaRCTF) |
-| corCTF             | [2021](corCTF) [2022](corCTF) |
 | APU iCTF           | [2022](iCTF%202022) |
 | iHack              | [2022](iHack2022%20Qualifying%20Round) |
+
+#### International CTF
+| CTF Name           | Link                                                         |
+|--------------------|--------------------------------------------------------------|
+| HTB Santa          | [2021](HTB%20Santa%202021) |
+| HTB UniCTF         | [2022](HTB%20UniCTF%202022) |
+| WinRaRCTF          | [2021](WinRaRCTF) |
+| corCTF             | [2021](corCTF) [2022](corCTF) |
 
 ## Reverse Engineering
 1. [100Secure](BoH2021/100Secure) (BoH2021)
