@@ -7,7 +7,7 @@ This is a repository of writeups for various jeopardy challenges from CTFs that 
 | **JesusCries**                                  | **pikaroot**                                    | **redeeF**                                      |
 
 ### Intervarsity CTF
-| CTF Name           | Link                                                         |
+| CTF Name           | Year                                                         |
 |--------------------|--------------------------------------------------------------|
 | Battle of Hackers  | [2021](BoH2021) |
 | Hack@10            | [2021](HACK@10) |
@@ -17,7 +17,7 @@ This is a repository of writeups for various jeopardy challenges from CTFs that 
 | iHack              | [2022](iHack2022%20Qualifying%20Round) |
 
 ### International CTF
-| CTF Name           | Link                                                         |
+| CTF Name           | Year                                                         |
 |--------------------|--------------------------------------------------------------|
 | HTB Santa          | [2021](HTB%20Santa%202021) |
 | HTB UniCTF         | [2022](HTB%20UniCTF%202022) |
@@ -42,6 +42,10 @@ This is a repository of writeups for various jeopardy challenges from CTFs that 
 15. [rev5](iHack2022%20Qualifying%20Round/rev/rev5) (iHack 2022)
 
 ## Binary Exploitation
+1. [sleigh](HTB%20Santa%202021/pwn/pwn-01%20sleigh) (HTB Santa CTF 2021)
+2. [mr_snowy](HTB%20Santa%202021/pwn/pwn-02%20mr_snowy) (HTB Santa CTF 2021)
+3. [naughty_list](HTB%20Santa%202021/pwn/pwn-03%20naughty_list) (HTB Santa CTF 2021)
+4. [minimelfistic](HTB%20Santa%202021/pwn/pwn-04%20minimelfistic) (HTB Santa CTF 2021)
 
 ## Cryptography
 
