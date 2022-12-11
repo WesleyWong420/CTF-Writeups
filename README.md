@@ -63,7 +63,13 @@ This is a repository of writeups for various jeopardy challenges from CTFs that 
 3. [fibinary](corCTF/crypto/fibinary) (corCTF 2021)
 
 ## Forensics
-1. [I - VII](iHack2022%20Qualifying%20Round/forensics) (iHack 2022)
+1. [I](iHack2022%20Qualifying%20Round/forensics) (iHack 2022)
+2. [II](iHack2022%20Qualifying%20Round/forensics) (iHack 2022)
+3. [III](iHack2022%20Qualifying%20Round/forensics) (iHack 2022)
+4. [IV](iHack2022%20Qualifying%20Round/forensics) (iHack 2022)
+5. [V](iHack2022%20Qualifying%20Round/forensics) (iHack 2022)
+6. [VI](iHack2022%20Qualifying%20Round/forensics) (iHack 2022)
+7. [VII](iHack2022%20Qualifying%20Round/forensics) (iHack 2022)
 
 ## Incident Response
 1. [DFIR 3](iHack2022%20Qualifying%20Round/DFIR/DFIR%203) (iHack 2022)
