@@ -19,7 +19,7 @@ This is a repository of writeups for various jeopardy challenges from CTFs that 
 ### International CTF
 | CTF Name           | Year                                                         |
 |--------------------|--------------------------------------------------------------|
-| HTB Santa          | [2021](HTB%20Santa%202021) |
+| HTB Santa CTF      | [2021](HTB%20Santa%202021) |
 | HTB UniCTF         | [2022](HTB%20UniCTF%202022) |
 | WinRaRCTF          | [2021](WinRaRCTF) |
 | corCTF             | [2021](corCTF) [2022](corCTF) |
