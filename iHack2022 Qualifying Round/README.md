@@ -12,6 +12,8 @@
 | [V](forensics)   | Forensics                | ✅ |
 | [VI](forensics)  | Forensics                | ✅ |
 | [VII](forensics) | Forensics                | ✅ |
+| [LNK](malware/LNK)   | Malware              | ✅ |
+| [XLSM](malware/XLSM) | Malware              | ✅ |
 | [pwn-01](pwn/pwn-01) | Binary Exploitation  | ⬜ |
 | [pwn-02](pwn/pwn-02) | Binary Exploitation  | ✅ |
 | [rev1](rev/rev1) | Reverse Engineering      | ✅ |
