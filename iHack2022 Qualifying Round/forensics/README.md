@@ -213,6 +213,6 @@ Writing out registry: registry.0x8b90b008.SAM.reg
 
 Using `Registry Explorer`, we can extract the timestamp for user creation from the path `SAM\Domains\Account\Users\Names\sysadmin`.
 
-![image-20221210211751875](C:\Users\USER\AppData\Roaming\Typora\typora-user-images\image-20221210211751875.png)
+![Screenshot](./Screenshot.png)
 
 **Flag:** `ihack{2022-12-09 13:34:07}`
