@@ -58,6 +58,9 @@ This is a repository of writeups for various jeopardy challenges from CTFs that 
 14. [pwn-02](iHack2022%20Qualifying%20Round/pwn/pwn-02) (iHack 2022)
 
 ## Cryptography
+1. [sRSA](WinRaRCTF/crypto/sRSA) (WinRarCTF 2021)
+2. [4096](corCTF/crypto/4096) (corCTF 2021)
+3. [fibinary](corCTF/crypto/fibinary) (corCTF 2021)
 
 ## Forensics
 
