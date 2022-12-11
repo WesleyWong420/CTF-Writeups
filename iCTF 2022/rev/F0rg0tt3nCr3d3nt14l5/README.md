@@ -168,6 +168,6 @@ undefined8 decodePass(void)
 
 Be mindful that the hex values are in little endian due to the LSB architecture as mentioned previously. Thus, we need to include the `Swap endianness` recipe with `Pad incomplete words` unchecked to convert to big endian before converting to ASCII characters.
 
-![image-20221211231443217](C:\Users\USER\AppData\Roaming\Typora\typora-user-images\image-20221211231443217.png)
+![screenshot](./screenshot.png)
 
 **Flag:** `BAT22BAT22{M45t3rH3x0r1337}`
