@@ -139,11 +139,11 @@ First thing that came into my mind was to patch the instruction that checks whet
 
 Using the disassembly graph in `BinaryNinja`, we can determine the instruction that is responsible for the conditional branch. 
 
-![image-20221211224748647](C:\Users\USER\AppData\Roaming\Typora\typora-user-images\image-20221211224748647.png)
+![screenshot-1](./screenshot-1.png)
 
 To bypass the `ReadPassword` function, we need to invert/patch the logic from `JE` to `JNE`. This will change the instruction opcode.
 
-![image-20221211224809806](C:\Users\USER\AppData\Roaming\Typora\typora-user-images\image-20221211224809806.png)
+![screenshot-2](./screenshot-2.png)
 
 After patching, save the ELF file as a new executable and run the program. Validation is bypassed, but still no flag since the program is designed to be a flag-checker.
 
@@ -200,7 +200,7 @@ LAB_00101259:
 
 Decode the flag using `CyberChef` by decrypting the flag with `5` as the key.
 
-![image-20221211225433142](C:\Users\USER\AppData\Roaming\Typora\typora-user-images\image-20221211225433142.png)
+![screenshot-3](./screenshot-3.png)
 
 ```
 ┌──(kali💀JesusCries)-[~/Desktop]
