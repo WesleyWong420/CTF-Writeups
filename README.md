@@ -31,7 +31,7 @@ This is a repository of writeups for various jeopardy challenges from CTFs that 
 4. [EZ1](iCTF%202022/rev) (APU iCTF 2022)
 5. [EZ2](iCTF%202022/rev) (APU iCTF 2022)
 6. [F0rg0tt3nCr3d3nt14l5](iCTF%202022/rev) (APU iCTF 2022)
-7. [backdoor](iCTF%202022/rev) (APU iCTF 2022)
+7. [Randomness](iCTF%202022/rev) (APU iCTF 2022)
 8. [kolona](SKR%20CTF/rev/kolona) (SKR CTF)
 9. [kolona2](SKR%20CTF/rev/kolona2) (SKR CTF)
 10. [Potion Master](HTB%20UniCTF%202022/rev/Potion%20Master) (HTB UniCTF 2022)
