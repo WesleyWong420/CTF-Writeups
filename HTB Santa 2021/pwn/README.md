@@ -1,1 +1,0 @@
-# HTB Santa CTF 2021
