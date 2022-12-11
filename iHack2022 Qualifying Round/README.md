@@ -3,11 +3,11 @@
 ## Challenge List
 | Challenge Name | Category | Writeup |
 |----------------|:---------| :-------: |
-| rev1           | Rev      | ✅ |
-| rev2           | Rev      | ✅ |
-| rev3           | Rev      | ⬜ |
-| rev4           | Rev      | ⬜ |
-| rev5           | Rev      | ⬜ |
+| rev1           | rev      | ✅ |
+| rev2           | rev      | ✅ |
+| rev3           | rev      | ⬜ |
+| rev4           | rev      | ⬜ |
+| rev5           | rev      | ⬜ |
 
 ## Scoreboard
 ![Scoreboard](./Scoreboard.png)
