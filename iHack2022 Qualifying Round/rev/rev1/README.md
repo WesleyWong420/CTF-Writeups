@@ -1,8 +1,8 @@
 # Rev-01
 
-**Challenge Description:** Reverse and provide me the flag. 
-
-**Flag Format:** `ihack{MD5}`
+> **Challenge Description:** Reverse and provide me the flag. 
+>
+> **Flag Format:** `ihack{MD5}`
 
 Decompile the given binary in `Ghidra` and navigate to the function `FUN_001011b9`:
 
