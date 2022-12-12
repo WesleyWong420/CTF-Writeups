@@ -20,8 +20,6 @@ From the command above, some of the major takeaways are:
 - Least Significant Bit (LSB) executable.
 - Functions name not stripped.
 
-> Since the binary is not stripped, we can retrieve the original function names with any disassembler or debugger tool such as Ghidra, GDB and Radare2 later on.
-
 Using the `strings` utility, we can find and print out text strings embedded in the binary.
 
 ```
