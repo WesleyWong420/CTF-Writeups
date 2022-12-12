@@ -1,8 +1,8 @@
 # Pwn-02
 
-**Flag Format:** `ihack{MD5}`
-
-**Remote Instance:** `nc pwn2.ihack.sibersiaga.my 1389`
+> **Flag Format:** `ihack{MD5}`
+> 
+> **Remote Instance:** `nc pwn2.ihack.sibersiaga.my 1389`
 
 Perform basic file checks regarding the architecture of the given binary. It is `32-bit`, `LSB`, `statically linked` & `not stripped`. 
 
