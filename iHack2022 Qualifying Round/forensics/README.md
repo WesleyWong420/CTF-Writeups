@@ -165,7 +165,7 @@ Offset(V)  Name                    PID   PPID   Thds     Hnds   Sess  Wow64 Star
 0x84c3f030 rdpclip.exe            1020   1060     10      168      2      0 2022-12-09 13:42:31 UTC+0000  
 ```
 
-From the list of established connection, there is no active connection with `rdpclip.exe` as the process owner. However, the parent ID (PPID) of `rdpclip.exe` is communicating with another foreign IP of `192.168.74.171`.
+From the list of established connection, there is no active connection with `rdpclip.exe` as the process owner. However, the parent process of `svchost.exe` is communicating with another foreign IP of `192.168.74.171`.
 
 ```
 Offset(P)          Proto    Local Address                  Foreign Address      State            Pid      Owner          Created
