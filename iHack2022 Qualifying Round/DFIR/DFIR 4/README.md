@@ -4,6 +4,7 @@
 > 
 > **Flag Format:** `ihack{filename.ext}`
 
+### Solution
 After going through the log file manually, the constant invocation of script block IEX stood out of the spotlight the most.
 
 ```
