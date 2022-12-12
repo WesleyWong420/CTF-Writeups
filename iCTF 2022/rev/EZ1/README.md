@@ -1,6 +1,6 @@
 # EZ1
 
-**Description:** There is a flag inside this binary.
+> **Description:** There is a flag inside this binary.
 
 ### Basic File Checks
 
