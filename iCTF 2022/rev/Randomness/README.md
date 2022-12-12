@@ -1,6 +1,6 @@
 # **Randomness** 
 
-**Description:** Random Junk Breaks Everything... Ughh What is it called again? ASLR ???
+> **Description:** Random Junk Breaks Everything... Ughh What is it called again? ASLR ???
 
 ### Basic File Checks
 
