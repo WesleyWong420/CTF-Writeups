@@ -2,9 +2,9 @@
 
 ## I
 
-**Challenge Description:** Provide the MD5 hash of the memory image as the flag.
-
-**Flag Format:** `ihack{MD5}`
+> **Challenge Description:** Provide the MD5 hash of the memory image as the flag.
+> 
+> **Flag Format:** `ihack{MD5}`
 
 ```
 ┌──(kali💀JesusCries)-[~/Desktop/iHack/volatility_2.6_lin64_standalone]
@@ -16,9 +16,9 @@
 
 ## II
 
-**Challenge Description:** There is an incident that happened. The SOC team has performed a memory dump on the infected PC. Based on the memory dump file, identify the suspicious process name used by the attacker.
-
-**Flag Format:** `ihack{name.ext}`
+> **Challenge Description:** There is an incident that happened. The SOC team has performed a memory dump on the infected PC. Based on the memory dump file, identify the suspicious process name used by the attacker.
+>
+> **Flag Format:** `ihack{name.ext}`
 
 Using the `pslist` plugin from `volatility`, we can list all the active processes. With `putty.exe` being the only non-Windows native binary, it is very likely that it is being abused by the attacker.
 
@@ -89,9 +89,9 @@ Offset(V)  Name                    PID   PPID   Thds     Hnds   Sess  Wow64 Star
 
 ## III
 
-**Challenge Description:** Identify process ID (PID) of the suspicious process.
-
-**Flag Format:** `ihack{PID}`
+> **Challenge Description:** Identify process ID (PID) of the suspicious process.
+>
+> **Flag Format:** `ihack{PID}`
 
 ```
 Offset(V)  Name                    PID   PPID   Thds     Hnds   Sess  Wow64 Start                          Exit   
@@ -103,9 +103,9 @@ Offset(V)  Name                    PID   PPID   Thds     Hnds   Sess  Wow64 Star
 
 ## IV
 
-**Challenge Description:** The SOC analyst confirmed that the infected PC is actively making an connection to the IP address of the attacker's C2 server. Identify the IP address of the C2 server.
-
-**Flag Format:** `ihack{IP}`
+> **Challenge Description:** The SOC analyst confirmed that the infected PC is actively making an connection to the IP address of the attacker's C2 server. Identify the IP address of the C2 server.
+>
+> **Flag Format:** `ihack{IP}`
 
 To look for inbound and outbound network connections, use the `netscan` plugin. `putty.exe` is reaching out to the foreign address of `139.59.122.20:4445`.
 
@@ -122,9 +122,9 @@ Offset(P)          Proto    Local Address                  Foreign Address      
 
 ## V
 
-**Challenge Description:** There is an additional user in the compromised host that was created by the attacker. Can you spot the new user from the given memory dump file?
-
-**Flag Format:** `ihack{username}`
+> **Challenge Description:** There is an additional user in the compromised host that was created by the attacker. Can you spot the new user from the given memory dump file?
+>
+> **Flag Format:** `ihack{username}`
 
 Continuing from the suspicious process of `putty.exe`, dump the process using `memdump` plugin and grep for `net user`, which is the typical command for administrators to add new users on the local machine.
 
@@ -147,9 +147,9 @@ net user sysadmin
 
 ## VI
 
-**Challenge Description:** A user complains that his session is being hijacked due to an active RDP connection to his PC. Can you identify the IP address that is establishing the RDP connection?
-
-**Flag Format:** `ihack{IP}`
+> **Challenge Description:** A user complains that his session is being hijacked due to an active RDP connection to his PC. Can you identify the IP address that is establishing the RDP connection?
+>
+> **Flag Format:** `ihack{IP}`
 
 From the previous question, there is another suspicious process that is highly correlated with RDP connection. 
 
@@ -170,9 +170,9 @@ Offset(P)          Proto    Local Address                  Foreign Address      
 
 ## VII
 
-**Challenge Description:** Timestamp for when the attacker create a new user on the victim's PC.
-
-**Flag Format:** `ihack{year-month-day hour:min:second}`
+> **Challenge Description:** Timestamp for when the attacker create a new user on the victim's PC.
+>
+> **Flag Format:** `ihack{year-month-day hour:min:second}`
 
 The Windows registry hive contains artifacts related to user accounts and secrets. Using `hivelist`, we can list all the registry hives.
 
