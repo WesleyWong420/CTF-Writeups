@@ -1,8 +1,8 @@
 # DFIR 4
 
-**Challenge Description:** A lot of malicious PowerShell activities have triggered our EDR. Please investigate the given event log. What is the file name that being was used by the malware as part of the communication with their C2 server?
-
-**Flag Format:** `ihack{filename.ext}`
+> **Challenge Description:** A lot of malicious PowerShell activities have triggered our EDR. Please investigate the given event log. What is the file name that being was used by the malware as part of the communication with their C2 server?
+> 
+> **Flag Format:** `ihack{filename.ext}`
 
 After going through the log file manually, the constant invocation of script block IEX stood out of the spotlight the most.
 
