@@ -4,6 +4,7 @@
 > 
 > **Remote Instance:** `nc pwn2.ihack.sibersiaga.my 1389`
 
+### Basic File Checks
 Perform basic file checks regarding the architecture of the given binary. It is `32-bit`, `LSB`, `statically linked` & `not stripped`. 
 
 ```
@@ -25,6 +26,7 @@ Perform binary protection checks to get an overall idea on where to start tackli
     PIE:      No PIE (0x8048000)
 ```
 
+### Static Analysis
 The binary to vulnerable to a Buffer Overflow attack due to the use of deprecated `gets` in the `echo` function. By exploiting this vulnerability, we can overwrite the return address to any function that we control.
 
 ```
@@ -100,6 +102,7 @@ pwndbg> cyclic -l iaaa
 32
 ```
 
+### Solution
 We can automate the process using `pwntools` as follows:
 
 ```
