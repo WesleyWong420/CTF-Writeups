@@ -1,8 +1,8 @@
 # Rev-02
 
-**Challenge Description:** Can you reverse a Rust program?
-
-**Flag Format:** `ihack{MD5}`
+> **Challenge Description:** Can you reverse a Rust program?
+>
+> **Flag Format:** `ihack{MD5}`
 
 Decompile the given binary in `Ghidra` and navigate to the function `check_flag`:
 
