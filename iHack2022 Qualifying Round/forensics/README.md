@@ -6,6 +6,7 @@
 > 
 > **Flag Format:** `ihack{MD5}`
 
+### Solution
 ```
 ┌──(kali💀JesusCries)-[~/Desktop/iHack/volatility_2.6_lin64_standalone]
 └─$ md5sum artefact.vmem 
@@ -20,6 +21,7 @@
 >
 > **Flag Format:** `ihack{name.ext}`
 
+### Solution
 Using the `pslist` plugin from `volatility`, we can list all the active processes. With `putty.exe` being the only non-Windows native binary, it is very likely that it is being abused by the attacker.
 
 ```
@@ -93,6 +95,7 @@ Offset(V)  Name                    PID   PPID   Thds     Hnds   Sess  Wow64 Star
 >
 > **Flag Format:** `ihack{PID}`
 
+### Solution
 ```
 Offset(V)  Name                    PID   PPID   Thds     Hnds   Sess  Wow64 Start                          Exit   
 ---------- -------------------- ------ ------ ------ -------- ------ ------ ------------------------------ ---------------------
@@ -107,6 +110,7 @@ Offset(V)  Name                    PID   PPID   Thds     Hnds   Sess  Wow64 Star
 >
 > **Flag Format:** `ihack{IP}`
 
+### Solution
 To look for inbound and outbound network connections, use the `netscan` plugin. `putty.exe` is reaching out to the foreign address of `139.59.122.20:4445`.
 
 ```
@@ -126,6 +130,7 @@ Offset(P)          Proto    Local Address                  Foreign Address      
 >
 > **Flag Format:** `ihack{username}`
 
+### Solution
 Continuing from the suspicious process of `putty.exe`, dump the process using `memdump` plugin and grep for `net user`, which is the typical command for administrators to add new users on the local machine.
 
 ```
@@ -151,6 +156,7 @@ net user sysadmin
 >
 > **Flag Format:** `ihack{IP}`
 
+### Solution
 From the previous question, there is another suspicious process that is highly correlated with RDP connection. 
 
 ```
@@ -174,6 +180,7 @@ Offset(P)          Proto    Local Address                  Foreign Address      
 >
 > **Flag Format:** `ihack{year-month-day hour:min:second}`
 
+### Solution
 The Windows registry hive contains artifacts related to user accounts and secrets. Using `hivelist`, we can list all the registry hives.
 
 ```
