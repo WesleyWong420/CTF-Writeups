@@ -4,6 +4,7 @@
 >
 > **Flag Format:** `ihack{MD5}`
 
+### Solution
 Smells like a Registry Startup Persistence method. 
 
 Open `NTUSER.dat` in `Registry Explorer` and navigate to `Root\Software\Microsoft\Windows\CurrentVersion\Run`.
