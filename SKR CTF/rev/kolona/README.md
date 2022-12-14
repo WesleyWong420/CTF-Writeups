@@ -15,4 +15,5 @@ for i,c in enumerate(kolona.read()):
 ```
 
 **Flag:** `SKR{V1rus_1s_3verywhere_pl3453_st4y_4t_H0me}`
+
 ![Flag](./flag.jpg)
