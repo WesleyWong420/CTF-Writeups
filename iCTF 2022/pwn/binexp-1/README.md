@@ -66,7 +66,7 @@ int main(int argc, char *argv[]) {
 }
 ```
 
-### Preparation
+### Finding Offset & Address
 
 To find the offset or the number of characters required to fill the padding, we can use the `cyclic` module together with `pwn-dbg`. When the program crashes due to segmentation fault, we can inspect the EIP’s value and perform a lookup to determine its offset.
 
