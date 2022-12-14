@@ -1,7 +1,7 @@
 # 4096
 
 ### Solution
-Factorize the value of `n` using [Integer Factorization Calculator](https://www.alpertron.com.ar/ECM.HTM).
+Derive the Euler's Totient Function `phi` by factorizing the value of `n` using [Integer Factorization Calculator](https://www.alpertron.com.ar/ECM.HTM).
 
 ```
 #!/usr/bin/env python3
