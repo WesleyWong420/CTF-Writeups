@@ -77,4 +77,4 @@ io.sendlineafter(b'>', payload)
 io.interactive()
 ```
 
-**Flag:** ``
+**Flag:** `HTB{d4sh1nG_thr0ugH_th3_sn0w_1n_4_0n3_h0r53_0p3n_sl31gh!!!}`
