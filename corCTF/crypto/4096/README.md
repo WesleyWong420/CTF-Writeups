@@ -1,6 +1,8 @@
 # 4096
 
 ### Solution
+Factorize the value of `n` using [Integer Factorization Calculator](https://www.alpertron.com.ar/ECM.HTM).
+
 ```
 #!/usr/bin/env python3
 from Crypto.Util.number import *
