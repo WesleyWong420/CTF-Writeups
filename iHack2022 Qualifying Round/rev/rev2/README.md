@@ -4,6 +4,8 @@
 >
 > **Flag Format:** `ihack{MD5}`
 
+### Solution
+
 Decompile the given binary in `Ghidra` and navigate to the function `check_flag`:
 
 ```
