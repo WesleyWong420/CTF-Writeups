@@ -25,7 +25,7 @@ for c in flag:
 with open('flag.enc', 'w') as f:
 	f.write(enc.strip())
 ```
-The flag can be decrypted by brute forcing all printable ASCII characters.
+The flag can be decrypted by brute forcing all printable ASCII characters using the exact same `c2f()` function.
 ```
 #!/usr/bin/python3
 import string
