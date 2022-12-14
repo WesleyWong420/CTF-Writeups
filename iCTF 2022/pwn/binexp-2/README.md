@@ -117,7 +117,7 @@ Since the binary is 32-bit architecture, the calling convention will be `edi` > 
 
 ### Solution
 
-Since we do not have an ideal candidate of ROPGadgets to perform exploitation manually. We can use the `ropper` class in pwntools to automate the process:
+Since we do not have an ideal candidate of ROPGadgets to perform the exploitation manually. We can use the `ropper` class in pwntools to automate the process:
 
 ```
 #!/usr/bin/env python3
