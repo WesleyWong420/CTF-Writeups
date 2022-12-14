@@ -1,7 +1,7 @@
 # Fibinary
 
 ### Solution
-The flag is encrypted using the Fibonacci Sequence. 
+The flag is encrypted using the first 11 number from the Fibonacci Sequence. 
 ```
 #!/usr/bin/python3
 fib = [1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89]
