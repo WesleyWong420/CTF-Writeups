@@ -13,6 +13,7 @@
 | [VI](forensics)  | Forensics                | ✅ |
 | [VII](forensics) | Forensics                | ✅ |
 | [DOCM](malware/DOCM) | Malware Analysis     | ✅ |
+| [JS](malware/JS)     | Malware Analysis     | ✅ |
 | [LNK](malware/LNK)   | Malware Analysis     | ✅ |
 | [XLSM](malware/XLSM) | Malware Analysis     | ✅ |
 | [pwn-01](pwn/pwn-01) | Binary Exploitation  | ⬜ |
