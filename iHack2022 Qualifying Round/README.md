@@ -7,6 +7,7 @@
 | [DFIR 2](DFIR/DFIR%202) | Incident Response | ✅ |
 | [DFIR 3](DFIR/DFIR%203) | Incident Response | ✅ |
 | [DFIR 4](DFIR/DFIR%204) | Incident Response | ✅ |
+| [DFIR 5](DFIR/DFIR%205) | Incident Response | ✅ |
 | [I](forensics)   | Forensics                | ✅ |
 | [II](forensics)  | Forensics                | ✅ |
 | [III](forensics) | Forensics                | ✅ |
