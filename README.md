@@ -80,3 +80,4 @@ This is a repository of writeups for various jeopardy challenges from CTFs that 
 2. [JS](iHack2022%20Qualifying%20Round/malware/JS) (iHack 2022)
 3. [LNK](iHack2022%20Qualifying%20Round/malware/LNK) (iHack 2022)
 4. [XLSM](iHack2022%20Qualifying%20Round/malware/XLSM) (iHack 2022)
+5. [CHM](iHack2022%20Qualifying%20Round/malware/CHM) (iHack 2022)
