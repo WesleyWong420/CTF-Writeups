@@ -3,6 +3,7 @@
 ## Challenge List
 | Name                                            | Category          | Writeup |
 |:-----------------------------------------------:|:-----------------:|:--------:|
+| [DFIR 1](DFIR/DFIR%201) | Incident Response | ✅ |
 | [DFIR 3](DFIR/DFIR%203) | Incident Response | ✅ |
 | [DFIR 4](DFIR/DFIR%204) | Incident Response | ✅ |
 | [I](forensics)   | Forensics                | ✅ |
