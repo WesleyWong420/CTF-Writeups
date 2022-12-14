@@ -6,7 +6,7 @@
 
 ### Basic File Checks
 
-Perform basic file checks to know how the binary was compiled.
+Perform basic file checks to understand how the binary was compiled.
 
 ```
 ┌──(kali💀JesusCries)-[~/Desktop]
