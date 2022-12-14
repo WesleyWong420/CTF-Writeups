@@ -92,4 +92,4 @@ io.sendlineafter(b'>', payload)
 io.interactive()
 ```
 
-**Flag:** ``
+**Flag:** `HTB{S4nt4_15_n0w_r34dy_t0_g1v3_s0m3_g1ft5}`
