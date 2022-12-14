@@ -76,6 +76,7 @@ This is a repository of writeups for various jeopardy challenges from CTFs that 
 2. [DFIR 2](iHack2022%20Qualifying%20Round/DFIR/DFIR%202) (iHack 2022)
 3. [DFIR 3](iHack2022%20Qualifying%20Round/DFIR/DFIR%203) (iHack 2022)
 4. [DFIR 4](iHack2022%20Qualifying%20Round/DFIR/DFIR%204) (iHack 2022)
+5. [DFIR 5](iHack2022%20Qualifying%20Round/DFIR/DFIR%205) (iHack 2022)
 
 ## Malware Analysis
 1. [DOCM](iHack2022%20Qualifying%20Round/malware/DOCM) (iHack 2022)
