@@ -90,4 +90,4 @@ execute_payload(payload)
 ps.interactive()
 ``` 
 
-**Flag:** ``
+**Flag:** `HTB{m4y_th3_b0y_wh0_l1v3d_h3lp_u}`
