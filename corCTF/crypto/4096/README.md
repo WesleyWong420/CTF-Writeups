@@ -2,6 +2,7 @@
 
 ### Solution
 Derive the Euler's Totient Function `phi` by factorizing the value of `n` using [Integer Factorization Calculator](https://www.alpertron.com.ar/ECM.HTM).
+With `phi`, we can compute the decryption key and extract the message from the ciphertext.
 
 ```
 #!/usr/bin/env python3
