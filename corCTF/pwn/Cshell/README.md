@@ -50,3 +50,4 @@ def main():
 if __name__ == "__main__":
 	main()
 ```
+**Flag:** `corctf{tc4ch3_r3u5e_p1u5_0v3rfl0w_equ4l5_r007}`
