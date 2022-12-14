@@ -4,6 +4,8 @@
 
 **Flag Format:** `ihack{MD5}`
 
+### Solution
+
 The `access.log` file contains an encoded payload wrapped within a script tag. Further analysis shows that the payload is URL encoded and `JJEncoded`.
 
 ```
