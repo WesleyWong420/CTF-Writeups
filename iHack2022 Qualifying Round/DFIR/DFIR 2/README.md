@@ -1,8 +1,8 @@
 # DFIR 2
 
-**Challenge Description:** Identify this potential security threat from a suspicious payload found in our access log file.
-
-**Flag Format:** `ihack{MD5}`
+> **Challenge Description:** Identify this potential security threat from a suspicious payload found in our access log file.
+>
+> **Flag Format:** `ihack{MD5}`
 
 ### Solution
 
