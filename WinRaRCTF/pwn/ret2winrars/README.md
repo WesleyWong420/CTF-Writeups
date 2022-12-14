@@ -34,4 +34,4 @@ if __name__ == "__main__":
 	main()
 ```
 
-**Flag:** ``
+**Flag:** `rarctf{0h_1_g3t5_1t_1t5_l1k3_ret2win_but_w1nr4r5_df67123a66}`
