@@ -4,6 +4,8 @@
 >
 > **Remote Instance:** `nc pwn1.ihack.sibersiaga.my 80`
 
+### Solution
+
 The binary is a compiled python executable. The original binary was corrupted.
 
 ```
