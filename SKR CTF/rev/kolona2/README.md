@@ -18,6 +18,6 @@ for i,c in enumerate(kolona.read()):
 print(random_num)
 ```
 
-**Flag:** ``
+**Flag:** `SKR{W3_will_W1N!!}`
 
 ![Flag](./flag.png)
