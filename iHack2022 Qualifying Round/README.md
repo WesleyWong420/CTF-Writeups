@@ -17,7 +17,7 @@
 | [LNK](malware/LNK)   | Malware Analysis     | ✅ |
 | [XLSM](malware/XLSM) | Malware Analysis     | ✅ |
 | [CHM](malware/CHM)   | Malware Analysis     | ✅ |
-| [pwn-01](pwn/pwn-01) | Binary Exploitation  | ⬜ |
+| [pwn-01](pwn/pwn-01) | Binary Exploitation  | ✅ |
 | [pwn-02](pwn/pwn-02) | Binary Exploitation  | ✅ |
 | [rev1](rev/rev1) | Reverse Engineering      | ✅ |
 | [rev2](rev/rev2) | Reverse Engineering      | ✅ |
