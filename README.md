@@ -77,5 +77,6 @@ This is a repository of writeups for various jeopardy challenges from CTFs that 
 
 ## Malware Analysis
 1. [DOCM](iHack2022%20Qualifying%20Round/malware/DOCM) (iHack 2022)
-2. [LNK](iHack2022%20Qualifying%20Round/malware/LNK) (iHack 2022)
-3. [XLSM](iHack2022%20Qualifying%20Round/malware/XLSM) (iHack 2022)
+2. [JS](iHack2022%20Qualifying%20Round/malware/JS) (iHack 2022)
+3. [LNK](iHack2022%20Qualifying%20Round/malware/LNK) (iHack 2022)
+4. [XLSM](iHack2022%20Qualifying%20Round/malware/XLSM) (iHack 2022)
