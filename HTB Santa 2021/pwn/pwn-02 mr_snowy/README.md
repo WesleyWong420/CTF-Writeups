@@ -37,4 +37,4 @@ if __name__ == "__main__":
 	main()
 ```
 
-**Flag:** ``
+**Flag:** `HTB{n1c3_try_3lv35_but_n0t_g00d_3n0ugh}`
