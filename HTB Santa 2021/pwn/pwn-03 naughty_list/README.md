@@ -58,4 +58,4 @@ p.sendline(payload)
 p.interactive()
 ```
 
-**Flag:** ``
+**Flag:** `HTB{u_w1ll_b3_n4ughtyf13d_1f_u_4r3_g3tt1ng_4_g1ft}`
