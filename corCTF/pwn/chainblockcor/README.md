@@ -51,4 +51,4 @@ p.sendline(payload)
 p.interactive()
 ```
 
-**Flag:** `a`
+**Flag:** `corctf{mi11i0nt0k3n_1s_n0t_a_scam_r1ght}`
