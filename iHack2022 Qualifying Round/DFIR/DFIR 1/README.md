@@ -7,6 +7,7 @@
 ### Solution
 
 We can first analyze the PCAP file in `Wireshark` by doing `Follow TCP Streams`. However, due to the overwhelmingly amount of files, using `NetworkMiner` would be a better option.
+
 ![Screenshot](./Screenshot.png)
 
 A PHP reverse shell was found on stream `TCP 61440`. 
