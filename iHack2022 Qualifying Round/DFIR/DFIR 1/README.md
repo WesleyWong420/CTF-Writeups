@@ -1,8 +1,7 @@
 # DFIR 1
 
-> **Challenge Description:** iHack's web server have been defaced. Provide us the MD5 hash of the malicious file in the web server from this PCAP.
->
-> **Flag Format:** `ihack{MD5}`
+* **Challenge Description:** iHack's web server have been defaced. Provide us the MD5 hash of the malicious file in the web server from this PCAP.
+* **Flag Format:** `ihack{MD5}`
 
 ## Solution
 
