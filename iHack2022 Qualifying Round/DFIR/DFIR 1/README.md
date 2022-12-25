@@ -1,10 +1,9 @@
 # DFIR 1
 
-> **Challenge Description:** iHack's web server have been defaced. Provide us the MD5 hash of the malicious file in the web server from this PCAP.
->
-> **Flag Format:** `ihack{MD5}`
+* **Challenge Description:** iHack's web server have been defaced. Provide us the MD5 hash of the malicious file in the web server from this PCAP.
+* **Flag Format:** `ihack{MD5}`
 
-### Solution
+## Solution
 
 We can first analyze the PCAP file in `Wireshark` by doing `Follow TCP Streams`. However, due to the overwhelmingly amount of files, using `NetworkMiner` would be a better option.
 
