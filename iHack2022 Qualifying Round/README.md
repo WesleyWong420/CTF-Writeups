@@ -1,32 +1,32 @@
 # iHack2022 Qualifying Round
 
 ## Challenge List
-| Name                                            | Category          | Writeup |
-|:-----------------------------------------------:|:-----------------:|:--------:|
-| [DFIR 1](DFIR/DFIR%201) | Incident Response | ✅ |
-| [DFIR 2](DFIR/DFIR%202) | Incident Response | ✅ |
-| [DFIR 3](DFIR/DFIR%203) | Incident Response | ✅ |
-| [DFIR 4](DFIR/DFIR%204) | Incident Response | ✅ |
-| [DFIR 5](DFIR/DFIR%205) | Incident Response | ✅ |
-| [I](forensics)   | Forensics                | ✅ |
-| [II](forensics)  | Forensics                | ✅ |
-| [III](forensics) | Forensics                | ✅ |
-| [IV](forensics)  | Forensics                | ✅ |
-| [V](forensics)   | Forensics                | ✅ |
-| [VI](forensics)  | Forensics                | ✅ |
-| [VII](forensics) | Forensics                | ✅ |
-| [DOCM](malware/DOCM) | Malware Analysis     | ✅ |
-| [JS](malware/JS)     | Malware Analysis     | ✅ |
-| [LNK](malware/LNK)   | Malware Analysis     | ✅ |
-| [XLSM](malware/XLSM) | Malware Analysis     | ✅ |
-| [CHM](malware/CHM)   | Malware Analysis     | ✅ |
-| [pwn-01](pwn/pwn-01) | Binary Exploitation  | ✅ |
-| [pwn-02](pwn/pwn-02) | Binary Exploitation  | ✅ |
-| [rev1](rev/rev1) | Reverse Engineering      | ✅ |
-| [rev2](rev/rev2) | Reverse Engineering      | ✅ |
-| [rev3](rev/rev3) | Reverse Engineering      | ⬜ |
-| [rev4](rev/rev4) | Reverse Engineering      | ⬜ |
-| [rev5](rev/rev5) | Reverse Engineering      | ⬜ |
+| Name                                            | Category          | Tags     | Difficulty  | Writeup  |
+|:-----------------------------------------------:|:-----------------:|:--------:|:-----------:|:--------:|
+| [DFIR 1](DFIR/DFIR%201) | Incident Response | N/A | ★☆ | ✅ |
+| [DFIR 2](DFIR/DFIR%202) | Incident Response | N/A | ★☆ | ✅ |
+| [DFIR 3](DFIR/DFIR%203) | Incident Response | N/A | ★☆ | ✅ |
+| [DFIR 4](DFIR/DFIR%204) | Incident Response | N/A | ★☆ | ✅ |
+| [DFIR 5](DFIR/DFIR%205) | Incident Response | N/A | ★☆ | ✅ |
+| [I](forensics)   | Forensics                | N/A | ★☆ | ✅ |
+| [II](forensics)  | Forensics                | N/A | ★☆ | ✅ |
+| [III](forensics) | Forensics                | N/A | ★☆ | ✅ |
+| [IV](forensics)  | Forensics                | N/A | ★☆ | ✅ |
+| [V](forensics)   | Forensics                | N/A | ★☆ | ✅ |
+| [VI](forensics)  | Forensics                | N/A | ★☆ | ✅ |
+| [VII](forensics) | Forensics                | N/A | ★☆ | ✅ |
+| [DOCM](malware/DOCM) | Malware Analysis     | N/A | ★☆ | ✅ |
+| [JS](malware/JS)     | Malware Analysis     | N/A | ★☆ | ✅ |
+| [LNK](malware/LNK)   | Malware Analysis     | N/A | ★☆ | ✅ |
+| [XLSM](malware/XLSM) | Malware Analysis     | N/A | ★☆ | ✅ |
+| [CHM](malware/CHM)   | Malware Analysis     | N/A | ★☆ | ✅ |
+| [pwn-01](pwn/pwn-01) | Binary Exploitation  | N/A | ★☆ | ✅ |
+| [pwn-02](pwn/pwn-02) | Binary Exploitation  | N/A | ★☆ | ✅ |
+| [rev1](rev/rev1) | Reverse Engineering      | N/A | ★☆ | ✅ |
+| [rev2](rev/rev2) | Reverse Engineering      | N/A | ★☆ | ✅ |
+| [rev3](rev/rev3) | Reverse Engineering      | N/A | ★☆ | ⬜ |
+| [rev4](rev/rev4) | Reverse Engineering      | N/A | ★☆ | ⬜ |
+| [rev5](rev/rev5) | Reverse Engineering      | N/A | ★☆ | ⬜ |
 
 ## Scoreboard
 ![Scoreboard](./Scoreboard.png)
