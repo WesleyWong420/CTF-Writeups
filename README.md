@@ -6,7 +6,7 @@ This is a repository of writeups for various jeopardy challenges from CTFs that 
 |:---------------------------------------------------------------:|:----------------------------------------------------------------:|:---------------------------:|
 | **JesusCries**                                                  | **pikaroot**                                                     | **redeeF**                  |
 
-### Intervarsity CTF
+### Intervarsity & Local CTF
 | CTF Name           | Year                                                         |
 |--------------------|--------------------------------------------------------------|
 | Battle of Hackers  | [2021](BoH2021) |
@@ -15,6 +15,7 @@ This is a repository of writeups for various jeopardy challenges from CTFs that 
 | TARUC CTF          | [2021](TARUC%20CTF%20Season%201) |
 | APU iCTF           | [2022](iCTF%202022) |
 | iHack              | [2022](iHack2022%20Qualifying%20Round) |
+| WargamesMY         | [2022](WargamesMY%202022) |
 
 ### International CTF
 | CTF Name           | Year                                                         |
