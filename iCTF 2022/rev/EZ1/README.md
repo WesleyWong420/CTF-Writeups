@@ -56,7 +56,7 @@ However, no obvious result is returned. This suggest that the flag is either not
 Using `ltrace` and `strace` utilities, we can attempt to carve for leaked flag during any function or syscalls such as `strcmp`.
 
 ```
-──(kali💀JesusCries)-[~/Desktop]
+┌──(kali💀JesusCries)-[~/Desktop]
 └─$ ltrace ./EZ1 test
 Access Denied
 +++ exited (status 0) +++
