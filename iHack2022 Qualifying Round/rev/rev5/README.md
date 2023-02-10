@@ -2,7 +2,7 @@
 
 The binary contain functions to resolve WinAPI during runtime:
 1. Sleep for 1 hour.
-2. Process Injection with shellcode to popup MessageBox. (rabbit hol.e & distraction)
+2. Process Injection with shellcode to popup MessageBox. (rabbit hole & distraction)
 3. Encrypted shellcode with multiple XOR for the flag MessageBox
 4. Anti debugging implementation.
 5. Anti VMWare and VirtualBox.
