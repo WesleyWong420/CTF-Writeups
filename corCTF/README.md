@@ -1,10 +1,10 @@
 # corCTF 
 
 ## Challenge List
-| Name                                            | Category          | Writeup |
-|:-----------------------------------------------:|:-----------------:|:--------:|
-| [4096](crypto/4096)         | Cryptography  | ✅ |
-| [fibinary](crypto/fibinary) | Cryptography  | ✅ |
-| [Cshell](pwn/Cshell)            | Binary Exploitation  | ⬜ |
-| [babypwn](pwn/babypwn)          | Binary Exploitation  | ⬜ |
-| [chainblock](pwn/chainblockcor) | Binary Exploitation  | ⬜ |
+| Name                            | Category             | Tags                                        | Difficulty  | Writeup  |
+|:-------------------------------:|:--------------------:|:-------------------------------------------:|:-----------:|:--------:|
+| [4096](crypto/4096)             | Cryptography         | Prime Factorization                         | ★☆☆☆☆    | ✅       |
+| [fibinary](crypto/fibinary)     | Cryptography         | Fibonacci Sequence                          | ★☆☆☆☆    | ✅       |
+| [chainblock](pwn/chainblockcor) | Binary Exploitation  | ret2libc                                    | ★★☆☆☆    | ⬜       |
+| [babypwn](pwn/babypwn)          | Binary Exploitation  | Rust, Format String Vulnerability, ret2libc | ★★★☆☆    | ⬜       |
+| [Cshell](pwn/Cshell)            | Binary Exploitation  | Heap Overflow, Use-After-Free (UAF)         | ★★★★☆    | ⬜       |
