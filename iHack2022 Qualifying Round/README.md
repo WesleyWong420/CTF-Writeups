@@ -21,7 +21,7 @@
 | [XLSM](malware/XLSM)    | Malware Analysis  | VBA Macro                    | ★☆☆☆☆    | ✅       |
 | [CHM](malware/CHM)      | Malware Analysis  | HTLM Help File               | ★☆☆☆☆    | ✅       |
 | [pwn-01](pwn/pwn-01)    | Binary Exploitation | Python Bytecode            | ★☆☆☆☆    | ✅       |
-| [pwn-02](pwn/pwn-02)    | Binary Exploitation | Ret2Win                    | ★☆☆☆☆    | ✅       |
+| [pwn-02](pwn/pwn-02)    | Binary Exploitation | ret2win                    | ★☆☆☆☆    | ✅       |
 | [rev1](rev/rev1)        | Reverse Engineering | N/A                        | ★☆☆☆☆    | ✅       |
 | [rev2](rev/rev2)        | Reverse Engineering | N/A                        | ★☆☆☆☆    | ✅       |
 | [rev3](rev/rev3)        | Reverse Engineering | N/A                        | ★☆☆☆☆    | ⬜       |
