@@ -9,12 +9,12 @@
 | [DFIR 4](DFIR/DFIR%204) | Incident Response | Log File Analysis            | ★☆☆☆☆    | ✅       |
 | [DFIR 5](DFIR/DFIR%205) | Incident Response | WMI Persistence              | ★☆☆☆☆    | ✅       |
 | [I](forensics)          | Forensics         | N/A                          | ★☆☆☆☆    | ✅       |
-| [II](forensics)         | Forensics         | N/A                          | ★☆☆☆☆    | ✅       |
-| [III](forensics)        | Forensics         | N/A                          | ★☆☆☆☆    | ✅       |
-| [IV](forensics)         | Forensics         | N/A                          | ★☆☆☆☆    | ✅       |
-| [V](forensics)          | Forensics         | N/A                          | ★☆☆☆☆    | ✅       |
-| [VI](forensics)         | Forensics         | N/A                          | ★☆☆☆☆    | ✅       |
-| [VII](forensics)        | Forensics         | N/A                          | ★☆☆☆☆    | ✅       |
+| [II](forensics)         | Forensics         | Process Dump                 | ★☆☆☆☆    | ✅       |
+| [III](forensics)        | Forensics         | Process Dump                 | ★☆☆☆☆    | ✅       |
+| [IV](forensics)         | Forensics         | C2 Connection                | ★☆☆☆☆    | ✅       |
+| [V](forensics)          | Forensics         | User Backdoor                | ★☆☆☆☆    | ✅       |
+| [VI](forensics)         | Forensics         | Parent-Child Process         | ★☆☆☆☆    | ✅       |
+| [VII](forensics)        | Forensics         | Registry Hive                | ★☆☆☆☆    | ✅       |
 | [DOCM](malware/DOCM)    | Malware Analysis  | N/A                          | ★☆☆☆☆    | ✅       |
 | [JS](malware/JS)        | Malware Analysis  | N/A                          | ★☆☆☆☆    | ✅       |
 | [LNK](malware/LNK)      | Malware Analysis  | N/A                          | ★☆☆☆☆    | ✅       |
