@@ -16,7 +16,7 @@
 | [VI](forensics)         | Forensics         | Parent-Child Process         | ★☆☆☆☆    | ✅       |
 | [VII](forensics)        | Forensics         | Registry Hive                | ★☆☆☆☆    | ✅       |
 | [DOCM](malware/DOCM)    | Malware Analysis  | N/A                          | ★☆☆☆☆    | ✅       |
-| [JS](malware/JS)        | Malware Analysis  | N/A                          | ★☆☆☆☆    | ✅       |
+| [JS](malware/JS)        | Malware Analysis  | Shellcode Debugging          | ★★☆☆☆    | ✅       |
 | [LNK](malware/LNK)      | Malware Analysis  | N/A                          | ★☆☆☆☆    | ✅       |
 | [XLSM](malware/XLSM)    | Malware Analysis  | N/A                          | ★☆☆☆☆    | ✅       |
 | [CHM](malware/CHM)      | Malware Analysis  | N/A                          | ★☆☆☆☆    | ✅       |
