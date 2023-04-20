@@ -4,7 +4,7 @@
 | Name                                            | Category          | Tags     | Difficulty  | Writeup  |
 |:-----------------------------------------------:|:-----------------:|:--------:|:-----------:|:--------:|
 | [DFIR 1](DFIR/DFIR%201) | Incident Response | N/A | ★☆☆☆☆ | ✅ |
-| [DFIR 2](DFIR/DFIR%202) | Incident Response | N/A | ★☆☆☆☆ | ✅ |
+| [DFIR 2](DFIR/DFIR%202) | Incident Response | N/A | ★★★☆☆ | ✅ |
 | [DFIR 3](DFIR/DFIR%203) | Incident Response | N/A | ★☆☆☆☆ | ✅ |
 | [DFIR 4](DFIR/DFIR%204) | Incident Response | N/A | ★☆☆☆☆ | ✅ |
 | [DFIR 5](DFIR/DFIR%205) | Incident Response | N/A | ★☆☆☆☆ | ✅ |
