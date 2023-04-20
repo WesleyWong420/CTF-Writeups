@@ -3,11 +3,11 @@
 ## Challenge List
 | Name                                            | Category          | Tags     | Difficulty  | Writeup  |
 |:-----------------------------------------------:|:-----------------:|:--------:|:-----------:|:--------:|
-| [DFIR 1](DFIR/DFIR%201) | Incident Response | N/A | ★☆☆☆☆ | ✅ |
-| [DFIR 2](DFIR/DFIR%202) | Incident Response | N/A | ★★★☆☆ | ✅ |
-| [DFIR 3](DFIR/DFIR%203) | Incident Response | N/A | ★☆☆☆☆ | ✅ |
-| [DFIR 4](DFIR/DFIR%204) | Incident Response | N/A | ★★☆☆☆ | ✅ |
-| [DFIR 5](DFIR/DFIR%205) | Incident Response | N/A | ★☆☆☆☆ | ✅ |
+| [DFIR 1](DFIR/DFIR%201) | Incident Response | Traffic Analysis | ★☆☆☆☆ | ✅ |
+| [DFIR 2](DFIR/DFIR%202) | Incident Response | JJEncode | ★★★☆☆ | ✅ |
+| [DFIR 3](DFIR/DFIR%203) | Incident Response | Registry Startup Persistence | ★☆☆☆☆ | ✅ |
+| [DFIR 4](DFIR/DFIR%204) | Incident Response | Log File Analysis | ★★☆☆☆ | ✅ |
+| [DFIR 5](DFIR/DFIR%205) | Incident Response | WMI Persistence | ★☆☆☆☆ | ✅ |
 | [I](forensics)   | Forensics                | N/A | ★☆☆☆☆ | ✅ |
 | [II](forensics)  | Forensics                | N/A | ★☆☆☆☆ | ✅ |
 | [III](forensics) | Forensics                | N/A | ★☆☆☆☆ | ✅ |
