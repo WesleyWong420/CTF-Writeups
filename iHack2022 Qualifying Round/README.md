@@ -15,9 +15,9 @@
 | [V](forensics)          | Forensics         | User Backdoor                | ★☆☆☆☆    | ✅       |
 | [VI](forensics)         | Forensics         | Parent-Child Process         | ★☆☆☆☆    | ✅       |
 | [VII](forensics)        | Forensics         | Registry Hive                | ★☆☆☆☆    | ✅       |
-| [DOCM](malware/DOCM)    | Malware Analysis  | N/A                          | ★☆☆☆☆    | ✅       |
+| [DOCM](malware/DOCM)    | Malware Analysis  | Maldoc                       | ★☆☆☆☆    | ✅       |
 | [JS](malware/JS)        | Malware Analysis  | Shellcode Debugging          | ★★☆☆☆    | ✅       |
-| [LNK](malware/LNK)      | Malware Analysis  | N/A                          | ★☆☆☆☆    | ✅       |
+| [LNK](malware/LNK)      | Malware Analysis  | Shortcut File, Metadata      | ★☆☆☆☆    | ✅       |
 | [XLSM](malware/XLSM)    | Malware Analysis  | N/A                          | ★☆☆☆☆    | ✅       |
 | [CHM](malware/CHM)      | Malware Analysis  | N/A                          | ★☆☆☆☆    | ✅       |
 | [pwn-01](pwn/pwn-01)    | Binary Exploitation | N/A                        | ★☆☆☆☆    | ✅       |
