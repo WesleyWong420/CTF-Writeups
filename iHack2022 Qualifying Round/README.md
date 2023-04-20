@@ -23,7 +23,7 @@
 | [pwn-01](pwn/pwn-01)    | Binary Exploitation | Python Bytecode            | ★☆☆☆☆    | ✅       |
 | [pwn-02](pwn/pwn-02)    | Binary Exploitation | ret2win                    | ★☆☆☆☆    | ✅       |
 | [rev1](rev/rev1)        | Reverse Engineering | XOR                        | ★☆☆☆☆    | ✅       |
-| [rev2](rev/rev2)        | Reverse Engineering | N/A                        | ★☆☆☆☆    | ✅       |
+| [rev2](rev/rev2)        | Reverse Engineering | Rust                       | ★☆☆☆☆    | ✅       |
 | [rev3](rev/rev3)        | Reverse Engineering | N/A                        | ★☆☆☆☆    | ⬜       |
 | [rev4](rev/rev4)        | Reverse Engineering | N/A                        | ★☆☆☆☆    | ⬜       |
 | [rev5](rev/rev5)        | Reverse Engineering | N/A                        | ★☆☆☆☆    | ⬜       |
