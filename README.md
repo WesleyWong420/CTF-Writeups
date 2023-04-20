@@ -50,7 +50,7 @@ This is a repository of writeups for various jeopardy challenges from CTFs that 
 5. [Sacred Scrolls](HTB%20UniCTF%202022/pwn/Sacred%20Scrolls) (HTB UniCTF 2022)
 6. [ret2winrars](WinRaRCTF/pwn/ret2winrars) (WinRarCTF 2021)
 7. [Cshell](corCTF/pwn/Cshell) (corCTF 2021)
-8. [chainblock](corCTF/pwn/chainblockcor) (corCTF 2021)
+8. [chainblock](corCTF/pwn/chainblock) (corCTF 2021)
 9. [babypwn](corCTF/pwn/babypwn) (corCTF 2022)
 10. [binexp-0](iCTF%202022/pwn/binexp-0) (APU iCTF 2022)
 11. [binexp-1](iCTF%202022/pwn/binexp-1) (APU iCTF 2022)
