@@ -18,7 +18,7 @@
 | [DOCM](malware/DOCM)    | Malware Analysis  | Maldoc                       | ★☆☆☆☆    | ✅       |
 | [JS](malware/JS)        | Malware Analysis  | Shellcode Debugging          | ★★☆☆☆    | ✅       |
 | [LNK](malware/LNK)      | Malware Analysis  | Shortcut File, Metadata      | ★☆☆☆☆    | ✅       |
-| [XLSM](malware/XLSM)    | Malware Analysis  | N/A                          | ★☆☆☆☆    | ✅       |
+| [XLSM](malware/XLSM)    | Malware Analysis  | VBA Macro                    | ★☆☆☆☆    | ✅       |
 | [CHM](malware/CHM)      | Malware Analysis  | N/A                          | ★☆☆☆☆    | ✅       |
 | [pwn-01](pwn/pwn-01)    | Binary Exploitation | N/A                        | ★☆☆☆☆    | ✅       |
 | [pwn-02](pwn/pwn-02)    | Binary Exploitation | N/A                        | ★☆☆☆☆    | ✅       |
