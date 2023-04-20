@@ -8,7 +8,7 @@
 | [DFIR 3](DFIR/DFIR%203) | Incident Response | Registry Startup Persistence | ★☆☆☆☆    | ✅       |
 | [DFIR 4](DFIR/DFIR%204) | Incident Response | Log File Analysis            | ★☆☆☆☆    | ✅       |
 | [DFIR 5](DFIR/DFIR%205) | Incident Response | WMI Persistence              | ★☆☆☆☆    | ✅       |
-| [I](forensics)          | Forensics         | N/A                          | ★☆☆☆☆    | ✅       |
+| [I](forensics)          | Forensics         | Sanity Check, MD5            | ★☆☆☆☆    | ✅       |
 | [II](forensics)         | Forensics         | Process Dump                 | ★☆☆☆☆    | ✅       |
 | [III](forensics)        | Forensics         | Process Dump                 | ★☆☆☆☆    | ✅       |
 | [IV](forensics)         | Forensics         | C2 Connection                | ★☆☆☆☆    | ✅       |
