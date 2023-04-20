@@ -2,7 +2,7 @@
 
 ## Challenge List
 | Name                    | Category          | Tags                         | Difficulty  | Writeup  |
-|:-----------------------:|:-----------------:|:-----------------------------|:-----------:|:--------:|
+|:-----------------------:|:-----------------:|:----------------------------:|:-----------:|:--------:|
 | [DFIR 1](DFIR/DFIR%201) | Incident Response | Traffic Analysis             | ★☆☆☆☆    | ✅       |
 | [DFIR 2](DFIR/DFIR%202) | Incident Response | JJEncode                     | ★★☆☆☆    | ✅       |
 | [DFIR 3](DFIR/DFIR%203) | Incident Response | Registry Startup Persistence | ★☆☆☆☆    | ✅       |
