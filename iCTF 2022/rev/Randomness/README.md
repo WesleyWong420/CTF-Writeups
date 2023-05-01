@@ -41,7 +41,7 @@ Using Ghidra, we can check out some of the resolved function names from the bina
 
 The binary receives two arguments, which are the remote IP address and port respectively. It then jumps to `function` unconditionally along with the port number.
 
-```
+```c
 void main(undefined4 param_1,int param_2)
 
 {
@@ -53,7 +53,7 @@ void main(undefined4 param_1,int param_2)
 
 `function1` then initialize a large buffer followed by a string copy operation of the port number. 
 
-```
+```c
 void function1(char *param_1)
 
 {
@@ -66,7 +66,7 @@ void function1(char *param_1)
 
 `shell` function on the other hand spawns an interactive shell, just like SSH! Nothing too interesting, but we’ll come back here if necessary.
 
-```
+```c
 void shell(void)
 
 {
@@ -77,7 +77,7 @@ void shell(void)
 
 `flag2` is a function that keeps concatenating strings repeatedly from data source to form a longer string, which could potentially be our flag. This means that the flag is stored in plaintext, but in a fragmented format, hence the need for concatenation.
 
-```
+```c
 void flag2(void)
 
 {
