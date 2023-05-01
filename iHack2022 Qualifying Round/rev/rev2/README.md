@@ -8,7 +8,7 @@
 
 Decompile the given binary in `Ghidra` and navigate to the function `check_flag`:
 
-```
+```c
 void rev2::check_flag(undefined8 param_1)
 
 {
