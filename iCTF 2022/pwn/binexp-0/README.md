@@ -25,7 +25,7 @@ From the command above, some of the major takeaways are:
 
 By looking at the source code, the `gets` function does not limit the input size, which is bound to exceed the buffer limit in a Buffer Overflow attack.
 
-```
+```c
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -67,7 +67,7 @@ BAT22{f4k3_fl4g_f0r_t3st1ng}
 
 Using pwntools to automate the process:
 
-```
+```python
 #!/usr/bin/env python3
 from pwn import *
 
