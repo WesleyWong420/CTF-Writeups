@@ -1,7 +1,7 @@
 # Potion Master
 
 ### Solution
-```
+```python
 # After stripping the flag format and checking the length, several checks are performed against constants
 # 1. The difference between each chunk of two characters
 # 2. XORing together each chunk of three characters
