@@ -124,7 +124,7 @@ To ensure that the stack contains the proper amount of bytes to be aligned, we c
 
 Using pwntools to automate the process:
 
-```
+```python
 #!/usr/bin/env python3
 from pwn import *
 
