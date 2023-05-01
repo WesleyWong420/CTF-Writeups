@@ -1,7 +1,7 @@
 # Kolona2
 
 ### Solution
-```
+```python
 import random
 
 kolona = open("flag.kolona", 'r')
