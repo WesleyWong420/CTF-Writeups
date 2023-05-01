@@ -11,7 +11,7 @@ We can first analyze the PCAP file in `Wireshark` by doing `Follow TCP Streams`.
 
 A PHP reverse shell was found on stream `TCP 61440`. 
 
-```
+```php
 <?php
 // PHP Reverse Shell
 // Copyright (C) 2020 e@hotmail.com
