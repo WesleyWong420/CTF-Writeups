@@ -8,7 +8,7 @@
 
 Decompile the given binary in `Ghidra` and navigate to the function `FUN_001011b9`:
 
-```
+```c
 undefined8 FUN_001011b9(void)
 
 {
