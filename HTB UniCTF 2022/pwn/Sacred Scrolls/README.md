@@ -1,7 +1,7 @@
 # Sacred Scrolls
 
 ### Solution
-```
+```python
 #!/usr/bin/env python3
 
 # STEP 1
