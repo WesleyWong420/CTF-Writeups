@@ -67,7 +67,7 @@ We managed to carve the flag out of the binary using this method. However, upon 
 
 Disassemble the binary using `Ghidra` and look for the `main` function. The main function is the entry point of a program where instruction execution begins. Therefore, we can first begin our static code analysis from this part.
 
-```
+```c
 undefined8 main(void)
 
 {
@@ -127,7 +127,7 @@ BAT22{M45t3rH3x0r1337}
 
 In the `decodePass` function, the hardcoded flag can be observed from `local_48` to `local_2c`. Since it is not involved in the loop operation after the data variables initialization, we can convert the hex values to ASCII characters to get the flag.
 
-```
+```c
 undefined8 decodePass(void)
 
 {
