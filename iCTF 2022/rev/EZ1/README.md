@@ -105,7 +105,7 @@ Nothing interesting as well.
 
 Disassemble the binary using `Ghidra` and look for the `main` function.
 
-```
+```c
 undefined8 main(int param_1,long param_2)
 
 {
@@ -156,7 +156,7 @@ BAT22{test_flag}
 
 In the `ReadPassword` function. We can see that the hardcoded flag is located from`local_28` to`local_20` and XORed by `5` in a loop.
 
-```
+```c
 undefined8 ReadPassword(char *param_1)
 
 {
