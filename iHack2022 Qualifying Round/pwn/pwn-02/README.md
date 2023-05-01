@@ -29,7 +29,7 @@ Perform binary protection checks to get an overall idea on where to start tackli
 ### Static Analysis
 The binary to vulnerable to a Buffer Overflow attack due to the use of deprecated `gets` in the `echo` function. By exploiting this vulnerability, we can overwrite the return address to any function that we control.
 
-```
+```c
 void echo(void)
 
 {
@@ -49,7 +49,7 @@ void echo(void)
 
 There is also another function `ZmxhZ2hlcmUh` that prints out the flag on the remote instance. Since `PIE` is disabled, we can grab the address of this function in `Ghidra`, which is `0804988b`.
 
-```
+```c
 void ZmxhZ2hlcmUh(void)
 
 {
@@ -105,7 +105,7 @@ pwndbg> cyclic -l iaaa
 ### Solution
 We can automate the process using `pwntools` as follows:
 
-```
+```python
 #!/usr/bin/env python3
 from pwn import *
 
