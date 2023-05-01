@@ -23,7 +23,7 @@ Fix the file format by changing the extension to `.pyc`.
 
 The python byte-code executable can be decompiled using `decompyle6`, `pycdc` or by using this [Online Compiler](https://www.toolnb.com/tools-lang-en/pyc.html).
 
-```
+```python
 ┌──(kali💀JesusCries)-[~/Desktop/iHack/pwn/pwn-01]
 └─$ cat calculator.py 
 
