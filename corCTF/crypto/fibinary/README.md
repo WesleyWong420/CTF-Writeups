@@ -2,7 +2,7 @@
 
 ### Solution
 Based on the source code, `c2f()` transforms each character into an ASCII value and is encrypted using the first 11 number from the Fibonacci Sequence. For each character that is passed into c2f, 8 ‘bits’ of `0's` and `1's` is written to flag.enc.
-```
+```python
 fib = [1, 1]
 for i in range(2, 11):
 	fib.append(fib[i - 1] + fib[i - 2])
@@ -26,7 +26,7 @@ with open('flag.enc', 'w') as f:
 	f.write(enc.strip())
 ```
 The flag can be decrypted by brute forcing all printable ASCII characters using the exact same `c2f()` function.
-```
+```python
 #!/usr/bin/python3
 import string
 
