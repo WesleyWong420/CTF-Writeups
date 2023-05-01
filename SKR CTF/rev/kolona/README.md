@@ -1,7 +1,7 @@
 # Kolona
 
 ### Solution
-```
+```python
 #!/usr/bin/env python2
 import codecs
 
